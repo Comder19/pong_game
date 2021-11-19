@@ -1,6 +1,5 @@
 # Ping-Pong game with turtle module.
 # Done by Badal kumar
-# Version - 3.7.0
 
 import turtle as t
 import os
